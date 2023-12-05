@@ -1,7 +1,7 @@
 export async function consultarHabitaciones(){
 
     //1. pa onde voy
-    let url="https://desplieguelunes27noviembre-puce.vercel.app/api/habitaciones"
+    let url=""
     let peticion={
         method:"GET"
     }
